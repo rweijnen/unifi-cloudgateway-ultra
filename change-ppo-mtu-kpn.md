@@ -1,6 +1,8 @@
 The UCG Ultra keeps it config in a file name `ubios-udapi-server.state` which is stored in `udapi-config/ubios-udapi-server`.
 It's a json file that looks a lot like the json file from the USG, however it's not meant for direct modification.
 
+[Reference](https://community.ui.com/questions/Research---Understanding-ubios-udapi-server-state-and-how-to-make-changes-persist-on-UniFi-consoles/0bc217af-2e26-48b3-ba71-29630a06ffdb?page=1)
+
 It's modified like this:
 1) copy the file, in this example to the home folder:
 cp `udapi-config/ubios-udapi-server/ubios-udapi-server.state ~`
