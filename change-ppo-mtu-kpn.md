@@ -5,7 +5,7 @@ It's a json file that looks a lot like the json file from the USG, however it's 
 
 It's modified like this:
 1) copy the file, in this example to the home folder:
-cp `udapi-config/ubios-udapi-server/ubios-udapi-server.state ~`
+`cp /data/udapi-config/ubios-udapi-server/ubios-udapi-server.state ~`
 
 2) create a copy of the file and name it udapi-request.json, this is the copy we are changing, the other one will serve as a backup
 `cp ~/ubios-udapi-server.state ~/udapi-request.json`
