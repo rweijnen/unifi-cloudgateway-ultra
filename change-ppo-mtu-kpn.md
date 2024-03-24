@@ -57,6 +57,6 @@ identification": {
 4) commit the new json:
 ```
 cd ~
-bios-udapi-client PUT /system/ubios/udm/configuration @udapi-request.json
+ubios-udapi-client PUT /system/ubios/udm/configuration @udapi-request.json
 ```
 
