@@ -1,3 +1,6 @@
 # manual firmware update to v4.04, login via ssh and use command below
 
 ubnt-systool fwupdate https://fw-download.ubnt.com/data/unifi-dream/ed94-UDRULT-4.0.4-ba8b9b1d-c352-4b78-9030-b468b8efc218.bin
+
+4.0.6
+ubnt-systool fwupdate https://fw-download.ubnt.com/data/unifi-dream/f9dc-UDRULT-4.0.6-0cf8f896-dcd5-4cff-abba-29cadc59af4f.bin
