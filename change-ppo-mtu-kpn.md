@@ -40,7 +40,7 @@ identification": {
     "interface": {
      "id": "eth4.6"
     },
-    "mru": 1492,
+    "mru": 1492, <-- change to 1500
     "mruNegotiation": false,
     "password": "internet",
     "username": "internet"
