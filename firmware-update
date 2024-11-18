@@ -13,3 +13,6 @@ ubnt-systool fwupdate https://fw-download.ubnt.com/data/unifi-dream/d5ba-UDRULT-
 
 4.1.5
 ubnt-systool fwupdate https://fw-download.ubnt.com/data/unifi-dream/f699-UDRULT-4.1.5-55ce6308-6cae-4b6f-a45f-6f56743df550.bin
+
+4.1.9
+ubnt-systool fwupdate https://fw-download.ubnt.com/data/unifi-dream/e1e8-UDRULT-4.1.9-36c5fd8f-de26-4327-8cf0-85b2814e715a.bin
